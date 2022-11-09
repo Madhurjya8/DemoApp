@@ -15,6 +15,7 @@ public class DemoApp {
 		StringBuffer sb = new StringBuffer("viratkohli");
 		int len = sb.append("INDRCB").reverse().length();
 		System.out.println(len);
+		System.out.println("Adding some changes");
 		
 	}
 
